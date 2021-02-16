@@ -8,9 +8,9 @@ var start;
 var startimg;
 var clue2;
 function preload(){
- family=loadImage("sd game/family.png");
- trainimg=loadImage("sd game/Train-Station.jpg");
- startimg=loadImage("sd game/start.png")
+ family=loadImage("family.png");
+ trainimg=loadImage("Train-Station.jpg");
+ startimg=loadImage("start.png")
 }
 function setup() {
   createCanvas(1400,700);
